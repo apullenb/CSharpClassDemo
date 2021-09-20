@@ -1,0 +1,16 @@
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\bin\Debug\net5.0\CSharpClasses.exe
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\bin\Debug\net5.0\CSharpClasses.deps.json
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\bin\Debug\net5.0\CSharpClasses.runtimeconfig.json
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\bin\Debug\net5.0\CSharpClasses.runtimeconfig.dev.json
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\bin\Debug\net5.0\CSharpClasses.dll
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\bin\Debug\net5.0\ref\CSharpClasses.dll
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\bin\Debug\net5.0\CSharpClasses.pdb
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\obj\Debug\net5.0\CSharpClasses.csprojAssemblyReference.cache
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\obj\Debug\net5.0\CSharpClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\obj\Debug\net5.0\CSharpClasses.AssemblyInfoInputs.cache
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\obj\Debug\net5.0\CSharpClasses.AssemblyInfo.cs
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\obj\Debug\net5.0\CSharpClasses.csproj.CoreCompileInputs.cache
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\obj\Debug\net5.0\CSharpClasses.dll
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\obj\Debug\net5.0\ref\CSharpClasses.dll
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\obj\Debug\net5.0\CSharpClasses.pdb
+C:\Users\AndreaPullen\source\repos\CSharpClassDemo\CSharpClasses\CSharpClasses\obj\Debug\net5.0\CSharpClasses.genruntimeconfig.cache
