@@ -6,16 +6,14 @@ namespace CSharpClasses
     {
         static void Main(string[] args)
         {
-            Post post1 = new Post("Thank You!", true, "Andrea");
-
-            Post post2 = new Post("Second Post", true, "Andrea P");
-            Console.WriteLine(post1.ToString());
-            Console.WriteLine(post2.ToString());
-           
-
-            ImagePost imagePost1 = new ImagePost("New Shoes!", "Andrea P", "http://www.facebook.com", true);
-            Console.WriteLine(imagePost1.ToString());
+            DateTime dateTime = new DateTime(2018, 5, 31);
+            DateTime tomorrow = GetTomorrow();
+            Console.WriteLine(tomorrow);
             Console.ReadLine();
+        }
+        static DateTime GetTomorrow()
+        {
+            return DateTime.Today.AddDays(1);
         }
     }
 }
